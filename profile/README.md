@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/MHToolkit/MHToolkit.github.io/main/assets/logo.png" width="128" alt="MH Toolkit Nemessix shield logo" /></p>
+
 # MH Toolkit
 
 Cross-platform toolkit for classic Monster Hunter emulation, overlays, save sync, and multiplayer on macOS and Android.
